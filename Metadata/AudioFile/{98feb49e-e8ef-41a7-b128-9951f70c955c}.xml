@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{98feb49e-e8ef-41a7-b128-9951f70c955c}">
+		<property name="assetPath">
+			<value>FootstepGore1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.55938775510204086</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b411e527-312a-43f9-b373-c2def2318546}</destination>
+		</relationship>
+	</object>
+</objects>

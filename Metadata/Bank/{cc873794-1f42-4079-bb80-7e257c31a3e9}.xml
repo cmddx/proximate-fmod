@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{cc873794-1f42-4079-bb80-7e257c31a3e9}">
+		<property name="name">
+			<value>SonaSystem</value>
+		</property>
+		<relationship name="folder">
+			<destination>{c9aa60f3-82b5-4f24-8c27-9f1ddf587fed}</destination>
+		</relationship>
+	</object>
+</objects>

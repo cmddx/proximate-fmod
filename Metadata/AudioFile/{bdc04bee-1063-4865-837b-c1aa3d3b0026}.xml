@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bdc04bee-1063-4865-837b-c1aa3d3b0026}">
+		<property name="assetPath">
+			<value>LobbyCall.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>29.000839002267572</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b411e527-312a-43f9-b373-c2def2318546}</destination>
+		</relationship>
+	</object>
+</objects>

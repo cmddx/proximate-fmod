@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{f07c21b0-e7bf-43f8-9bd1-53ded5322b5e}">
+		<property name="name">
+			<value>SonaSystem</value>
+		</property>
+		<relationship name="folder">
+			<destination>{450e5199-2b76-4291-afce-0e84140fbb16}</destination>
+		</relationship>
+	</object>
+</objects>

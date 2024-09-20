@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="EventFolder" id="{b9443c2a-b1dc-4916-bfa5-b67ec23cb7b2}">
+		<property name="name">
+			<value>TechScreens</value>
+		</property>
+		<relationship name="folder">
+			<destination>{450e5199-2b76-4291-afce-0e84140fbb16}</destination>
+		</relationship>
+	</object>
+</objects>
